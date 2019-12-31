@@ -45,6 +45,9 @@ p {
   line-height: 26px;
 }
 
+ul {
+	list-style: none;
+}
 a {
   color: white;
   text-decoration: none;
